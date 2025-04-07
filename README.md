@@ -1,4 +1,4 @@
-# # SpaceX Falcon 9 First Stage Landing Prediction
+# SpaceX Falcon 9 First Stage Landing Prediction
 
 This project focuses on predicting the landing success of the **SpaceX Falcon 9 First Stage** booster using real-world launch data. It includes web scraping, data wrangling, and data analysis to build a clean and insightful dataset for further machine learning modeling.
 ## Project Overview
